@@ -1,5 +1,5 @@
 ---
-cover-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochwasser_Gars_am_Kamp_2024_03.jpg/1200px-Hochwasser_Gars_am_Kamp_2024_03.jpg?20240914153540
+cover-image: https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/Floodings/Hochwasser_Gars_am_Kamp_2024_03.jpg
 
 date: 2025-01-01
 theme: climate
@@ -8,7 +8,7 @@ collections: WASDI_FLOOD
  
 ---    
 
-# Mapping the 2024 Central European Floods with Satellite Technology <!--{ as="img" mode="hero" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochwasser_Gars_am_Kamp_2024_03.jpg/1200px-Hochwasser_Gars_am_Kamp_2024_03.jpg?20240914153540" }-->
+# Mapping the 2024 Central European Floods with Satellite Technology <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/Floodings/Hochwasser_Gars_am_Kamp_2024_03.jpg" }-->
 ### Using remote sensing data and WASDI workflows to monitor flood evolution in open and urban areas <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## The 2024 Central European Floods
@@ -24,7 +24,6 @@ In response to the floods, the [Copernicus Emergency Management Service](https:/
         <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster" target="_blank">
              USGS, processed by ESA
         </a>.
-    </figcaption>
 </figure>
 
 Emergency response required detailed and timely mapping of the flooded areas. This situation highlighted the critical role of satellite Earth Observation (EO) technologies in monitoring, mapping, and responding to natural disasters. 
@@ -52,7 +51,6 @@ The [WASDI platform](https://www.wasdi.cloud/) represents a significant advancem
         <a href="https://www.wasdi.cloud/" target="_blank">
              WASDI Platform
         </a>
-    </figcaption>
 </figure>
 
 The dataset can be acquired via the [Network of Resources (NoR)](https://nor-discover.org/en/news/) request. NoR provides a unique environment for both commercial and non-commercial users to discover, via the NoR Portfolio, a list of European cloud services and estimates of the associated costs to make full use of Earth Observation data. [ESA offers sponsorship](https://nor-discover.org/en/sponsorship/) to eligible entities to cover the costs of trying out these services.
@@ -65,7 +63,6 @@ The dataset can be acquired via the [Network of Resources (NoR)](https://nor-dis
         <a href="https://nor-discover.org/" target="_blank">
              Explore the NoR Portal
         </a>
-    </figcaption>
 </figure>
 
 
